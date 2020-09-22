@@ -1,4 +1,4 @@
-# resume
+# Resume
 Sarah Lishin - Current Resume
 
 Hello! You can find the [link here](https://sarah-lishin.github.io/resume/) for my online resume.
